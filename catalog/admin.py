@@ -1,6 +1,3 @@
-# credentials for superuser - username: admin, email: admin@django.com, password: locallibrary
-# credentials for Batman user - username: Batman, pass: BatmanAdmin003
-
 from django.contrib import admin
 from .models import Genre, Book, BookInstance, Author
 
